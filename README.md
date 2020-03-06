@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL Challenge
 
 The repository contains an analysis of employees of a corporation from the 1980s and 1990s. This project contains end to end database creation: 
   1. Data Modeling
