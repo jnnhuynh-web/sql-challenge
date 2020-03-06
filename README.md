@@ -6,4 +6,4 @@ The repository contains an analysis of employees of a corporation from the 1980s
   2. Data Engineering
     - Used the information you have to create a table schema for the CSV files. Specified data types, primary keys, foreign keys, and other constraints. Then, imported each CSV file into the corresponding SQL table.
   3. Data Analysis
-    - Used SLQ to look up various data about employees including: employee number, last name, first name, gender, and salary.
+    - Used SQL to look up various data about employees including: employee number, last name, first name, gender, and salary.
